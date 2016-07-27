@@ -6,7 +6,8 @@
     "globals": {
         "React": 0,
         "Remarkable": 0,
-        "ReactDOM": 0
+        "ReactDOM": 0,
+        "$": 0
     },
     "extends": "eslint:recommended",
     "parserOptions": {
